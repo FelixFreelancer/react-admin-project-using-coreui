@@ -6,7 +6,7 @@
 [![NPM downloads][npm-coreui-react-download]][npm-coreui-react]
 
 
-##Admin Functions
+## Admin Functions
 Adding new store type
 
 Adding/Editing store owner per store type
