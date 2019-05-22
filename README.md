@@ -5,6 +5,7 @@
 [![npm package][npm-coreui-react-badge]][npm-coreui-react]
 [![NPM downloads][npm-coreui-react-download]][npm-coreui-react]
 
+
 ##Admin Functions
 Adding new store type
 
