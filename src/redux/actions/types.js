@@ -1,0 +1,18 @@
+export const LOG_IN="LOG_IN";
+export const LOG_OUT="LOG_OUT";
+export const GET_ME="GET_ME";
+export const FETCH_CATEGORIES = "FETCH_CATEGORIES";
+export const NEW_CATEGORY = "NEW_CATEGORY";
+export const GET_ORDER_USER="GET_ORDER_USER";
+export const RESET_ORDERS="RESET_ORDERS";
+export const ORDER_UPDATE="ORDER_UPDATE";
+export const ORDER_UPDATE_BY_OPTIONS="ORDER_UPDATE_BY_OPTIONS";
+export const RESET_UPDATE_STATUS="RESET_UPDATE_STATUS";
+export const GET_ORDER_LOCATION="GET_ORDER_LOCATION";
+export const GET_SINGLE_PRODUCT="GET_SINGLE_PRODUCT";
+export const RESET_SINGLE_PRODUCT="RESET_SINGLE_PRODUCT";
+export const RESET_UPDATED_OPTIONS="RESET_UPDATED_OPTIONS";
+
+//create action type for adding new store type in Navigation
+export const ADD_NEW_STORE_TYPE = "ADD_NEW_STORE_TYPE"
+
